@@ -1,0 +1,12 @@
+#insta-logo {
+    background-image: url('../assets/Instagram_Logo.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#user {
+    background-image: url('../assets/User.png');
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
