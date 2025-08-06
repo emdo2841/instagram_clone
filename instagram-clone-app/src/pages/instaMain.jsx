@@ -1,4 +1,5 @@
 import '../styles/login.css'
+
 export const IstaMain = () => {
     
     return (
